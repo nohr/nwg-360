@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "nwg-360",
-    "slug": "nwg-360",
+    "name": "tour-360",
+    "slug": "tour-360",
     "version": "0.0.6",
     "icon": "./assets/images/icon.png",
-    "scheme": "nwg360",
+    "scheme": "tour360",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -36,7 +36,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "0d6ab6a6-4d9d-4cbc-98f8-b8f2356a58ba"
+        "projectId": "7065009a-7bf6-41ce-afd5-4d94a8c367f1"
       }
     },
     "runtimeVersion": {
@@ -45,6 +45,6 @@
     "updates": {
       "url": "https://u.expo.dev/0d6ab6a6-4d9d-4cbc-98f8-b8f2356a58ba"
     },
-    "owner": "newworldgroup"
+    "owner": "nohr"
   }
 }

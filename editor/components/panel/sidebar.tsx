@@ -7,7 +7,7 @@ function Sidebar() {
     <Panel bool className=" w-full max-w-xs !items-start">
       <nav className="flex h-6 w-full flex-row items-end border-b-[1px]  border-current py-1 text-xs hover:text-blue-600 dark:hover:text-blue-400">
         <Link href="/docs" className="font-bold">
-          nwg360 docs
+          tour360 docs
         </Link>
       </nav>
       <Dropdown
