@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "nwg-360",
+    "slug": "nwg-360",
+    "version": "0.0.6",
+    "icon": "./assets/images/icon.png",
+    "scheme": "nwg360",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "backgroundColor": "#000000",
+    "ios": {
+      "supportsTablet": true,
+      "isTabletOnly": true,
+      "requireFullScreen": false,
+      "bundleIdentifier": "com.aite97.nwg360"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0d6ab6a6-4d9d-4cbc-98f8-b8f2356a58ba"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0d6ab6a6-4d9d-4cbc-98f8-b8f2356a58ba"
+    },
+    "owner": "newworldgroup"
+  }
+}
