@@ -21,7 +21,8 @@
     "ios": {
       "supportsTablet": true,
       "isTabletOnly": true,
-      "requireFullScreen": false
+      "requireFullScreen": false,
+      "bundleIdentifier": "com.nohr.tour360"
     },
     "plugins": [
       "expo-router"
