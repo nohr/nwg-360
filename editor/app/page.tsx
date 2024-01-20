@@ -3,8 +3,8 @@ import Uploader from "@/components/uploader";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "nwg-360 editor",
-  description: "Created by Aite Eboigbe",
+  title: "tour-360 editor",
+  description: "Created by Aite Aigbe",
 };
 
 export default async function Home() {

@@ -30,7 +30,7 @@ export default function Footer() {
           </Link>
         )}
         <a
-          href="https://github.com/newworldgroup/nwg-360"
+          href="https://github.com/nohr/tour-360"
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-row items-center justify-center gap-2 hover:animate-pulse hover:text-blue-600 focus:text-blue-600 dark:hover:text-blue-400 dark:focus:text-blue-400"
